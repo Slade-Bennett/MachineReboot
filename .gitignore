@@ -1,0 +1,27 @@
+# Log files
+*.log
+
+# PowerShell module cache
+PSGetModuleInfo.xml
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# Local test files
+test*.txt
+computers.txt
